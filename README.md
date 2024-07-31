@@ -1,3 +1,3 @@
 # nemida-project
 Nemida project
-React/SCSS/PHP/SQL/
+Vue/SCSS/PHP/SQL/Apache/OOP/
